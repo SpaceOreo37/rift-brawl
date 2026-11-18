@@ -3,7 +3,7 @@
 2D pixel-art platform fighter for 2 local players (or vs CPU). Knock your opponent off the
 floating island — the higher their damage %, the farther they fly. 3 stocks each.
 
-**Play:** open `index.html` in a browser. No install or build step.
+**Play online:** https://spaceoreo37.github.io/rift-brawl/ — or open `index.html` locally. No install or build step.
 
 ## Controls
 
